@@ -15,16 +15,15 @@ In Intuitive Terms, The **Feature Detector/Kernel/Filter** (Matrix) is multiplie
 3. The Output matrix is obtained after 9 iterations
 ---
 Based on the Features, Filters are obtained based on the Kernel Matrix. For Examples:
-<p align='center'>
+
 **Sharpen Filter**: The Sharpen Kernel is Obtained based on the Kernel Features as illustrated below:
-
-Matrix:<br>![2](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/2.png)The final image :![3](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/3.jpg)
-
+<p align='center'>
+Matrix:<br>![2](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/2.png)                              The final image :![3](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/3.jpg)
+</p>
 **Blur Filter**: The Blur Kernel is Obtained based on the Kernel Features as illustrated below:
-
-Matrix:![4](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/4.png)
-The Final image:![5](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/5.jpg)
-
+<p align='center'>
+Matrix:![4](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/4.png)                                  The Final image:![5](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/5.jpg)
+</p>
 **Edge Enhance Filter**:The Edge Enhance Kernel is Obtained based on the Kernel Features as illustrated below:
 
 Matrix:![6](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/6.png)
@@ -39,7 +38,6 @@ The Final image:![9](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%
 
 Matrix:![10](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/10.png)
 The Final image:![11](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/11.jpg)
-</p>
 
 ---
 
