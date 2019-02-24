@@ -18,23 +18,28 @@ Based on the Features, Filters are obtained based on the Kernel Matrix. For Exam
 
 **Sharpen Filter**: The Sharpen Kernel is Obtained based on the Kernel Features as illustrated below:
 
-Matrix:![2](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/2.png) /ts /ts /ts The final image :![3](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/3.jpg)
+Matrix:![2](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/2.png)
+The final image :![3](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/3.jpg)
 
 **Blur Filter**: The Blur Kernel is Obtained based on the Kernel Features as illustrated below:
 
-Matrix:![4](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/4.png)                                 The Final image:![5](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/5.jpg)
+Matrix:![4](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/4.png)
+The Final image:![5](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/5.jpg)
 
 **Edge Enhance Filter**:The Edge Enhance Kernel is Obtained based on the Kernel Features as illustrated below:
 
-Matrix:![6](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/6.png)                                 The Final image:![7](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/7.jpg)
+Matrix:![6](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/6.png)
+The Final image:![7](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/7.jpg)
 
 **Edge Detect Filter**:The Edge Detection Kernel is obtained based on the Kernel Features as illustrated below:
 
-Matrix:![8](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/8.png)                                 The Final image:![9](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/9.jpg)
+Matrix:![8](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/8.png)
+The Final image:![9](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/9.jpg)
 
 **Emboss Filter**:The Emboss Kernel is obtained based on the Kernel Features as illustrated below:
 
-Matrix:![10](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/10.png)                                 The Final image:![11](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/11.jpg)
+Matrix:![10](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/10.png)
+The Final image:![11](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/11.jpg)
 
 ---
 
