@@ -17,9 +17,9 @@ In Intuitive Terms, The **Feature Detector/Kernel/Filter** (Matrix) is multiplie
 Based on the Features, Filters are obtained based on the Kernel Matrix. For Examples:
 
 **Sharpen Filter**: The Sharpen Kernel is Obtained based on the Kernel Features as illustrated below:
-<p align='center'>
+<p align='center'><pre>
 Matrix:<br>![2](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/2.png)                              The final image :![3](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/3.jpg)
-</p>
+</pre></p>
 **Blur Filter**: The Blur Kernel is Obtained based on the Kernel Features as illustrated below:
 <p align='center'>
 Matrix:![4](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/4.png)                                  The Final image:![5](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/5.jpg)
