@@ -18,7 +18,7 @@ Based on the Features, Filters are obtained based on the Kernel Matrix. For Exam
 
 **Sharpen Filter**: The Sharpen Kernel is Obtained based on the Kernel Features as illustrated below:
 
-Matrix:![2](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/2.png)The final image :![3](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/3.jpg)
+Matrix:![2](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/2.png) '\t' The final image :![3](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/3.jpg)
 
 **Blur Filter**: The Blur Kernel is Obtained based on the Kernel Features as illustrated below:
 
