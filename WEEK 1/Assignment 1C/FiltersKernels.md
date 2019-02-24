@@ -2,13 +2,13 @@
 
 Filters/Kernels is a matrix which on multiplication with the Input image, processes a new Matrix known as Feature Map which is used to identify features of the image. the Filters/Kernels have parameters such as :
 
-1. **Stride**: represents the movement of the Filter/Kernel![convSobel](/home/tushar/Downloads/EIP-3.0/WEEK 1/images/convSobel.gif)
+1. **Stride**: represents the movement of the Filter/Kernel![convSobel](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images//convSobel.gif)
 
    
 
 2. **Padding**: represents the spacing after which the Kernel is sent to next line
 
-   ![FjvuN](/home/tushar/Downloads/EIP-3.0/WEEK 1/images/FjvuN.gif)
+   ![FjvuN](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/FjvuN.gif)
 
    ---
 
