@@ -6,9 +6,9 @@ The **3x3 Convolution Filter/ 3x3 Kernel Matrix** is used to change the *Depth r
 
 For Example, The input Image consists of the Features as follows:
 
-![15](/home/tushar/Downloads/EIP-3.0/WEEK 1/images/15.gif)
+![15](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/15.gif)
 
 The Kernel Values are Multiplied Elementally and the Maximum values are fetched and passed further to the Convolution Neural Net System as shown below:
 
- ![14](/home/tushar/Downloads/EIP-3.0/WEEK 1/images/14.gif)
+ ![14](https://github.com/TusharSharma16/EIP-3.0/blob/master/WEEK%201/images/14.gif)
 
