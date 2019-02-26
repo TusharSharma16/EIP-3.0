@@ -1,3 +1,4 @@
+**Name**: `Tushar Sharma`                             **Email**: `ts16sharma@gmail.com`       **Batch Number**:`2`
 # Filters/Kernels
 
 Filters/Kernels is a matrix which on multiplication with the Input image, processes a new Matrix known as Feature Map which is used to identify features of the image. the Filters/Kernels have parameters such as :
